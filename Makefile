@@ -2,7 +2,7 @@ build: var/built
 
 run: run_in_docker
 
-var/built: Dockerfile
+var/built: Dockerfile package.json stream-archiver.js
 	docker build . -t archiver:latest
 	mkdir var || true
 	touch var/built
