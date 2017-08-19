@@ -1,0 +1,22 @@
+{
+  "name": "stream-archiver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stream-archiver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keneo/stream-archiver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keneo/stream-archiver/issues"
+  },
+  "homepage": "https://github.com/keneo/stream-archiver#readme",
+  "dependencies": {
+    "socket.io": "^2.0.3"
+  }
+}
