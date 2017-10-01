@@ -1,0 +1,10 @@
+.git
+
+# comment
+*/temp*
+*/*/temp*
+temp?
+
+*.md
+
+var
